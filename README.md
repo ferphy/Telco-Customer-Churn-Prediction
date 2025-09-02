@@ -93,3 +93,4 @@ EOF
 ## 🧑 Datos Personales
 
 - Autor: Fernando González Laso
+- Email: gonzalezlasof@gmail.com
